@@ -1,0 +1,41 @@
+
+        
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+.stopwatch {
+	margin: 40px auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	width: 200px;
+}
+
+.time {
+	font-size: 48px;
+	margin-bottom: 20px;
+}
+
+button {
+	padding: 10px 20px;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.start-btn {
+	background-color: #4CAF50;
+	color: #fff;
+}
+
+.stop-btn {
+	background-color: #f44336;
+	color: #fff;
+}
+
+.reset-btn {
+	background-color: #2196F3;
+	color: #fff;
+}
